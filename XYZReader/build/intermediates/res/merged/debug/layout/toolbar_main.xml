@@ -1,0 +1,30 @@
+
+<!-- To make the toolbar reusable , this file is created -->
+<!-- TODO Change the height and the style as suitable -->
+<!-- Elevation must be added -->
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="112dp"
+    android:id="@+id/myToolbar"
+    android:background="?attr/colorPrimary"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:elevation="8dp"
+    >
+  <!-- image view inside the toolbar for now -->
+  <!-- this is just so that image is beneath the title -->
+
+  <!--
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:contentDescription="@string/app_name" />
+  </LinearLayout>
+  -->
+</android.support.v7.widget.Toolbar>

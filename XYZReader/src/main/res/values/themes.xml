@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- All themes in a separate file -->
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryDark">#E64A19</item>
+    </style>
+</resources>

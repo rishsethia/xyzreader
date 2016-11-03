@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/menu/night_mode_menu.xml",
+        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/src/main/res/menu/night_mode_menu.xml"
+    },
+    {
+        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Rishabh/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/menu/night_mode_menu.xml",
+        "source": "/Users/Rishabh/Desktop/xyzreader/XYZReader/src/main/res/menu/night_mode_menu.xml"
+    },
+    {
+        "merged": "/Users/Rishabh/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Rishabh/Desktop/xyzreader/XYZReader/src/main/res/menu/main.xml"
+    }
+]

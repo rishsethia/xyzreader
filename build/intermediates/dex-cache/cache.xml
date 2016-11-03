@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_c0fc4dab10c4769ad4f242453364682cbb61cc14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_d81ef91d6357a46c23738c41bec861e58811f14e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_08b44ef9782c255bcb2a61d24380ce259fa42b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_bcb48a656300ff9d4765f492300414bf08dcec97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_2a8601a80730cf6c868e5a99d8509a1ad35e96fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_6e094add3eba67bcabb33794d562d104b922cac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_280364cc973053201d89d5eac3fb221b25ede7a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_05de77bb1932f22b49cd1124188296c524b50704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_86816d10ea329ae3d4206082bc47acfe5e73ac79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_a9b6308e4ede1f724a52a5c18e2e044299e52bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_ca62ec0a232ac173f1fba62496f136026a0b4ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_ef729160be90038b739ba3b8a89fdfee19f270c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0_36948540cb8170bfdc2fd9c2ea4516bc06b9353c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_73cd80b3b1d94125e593649ed75fc166d040a870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.0.0_861d5a4737c87b37f59695993f2cf9164942a54f.jar" />
+    </item>
+
+</items>

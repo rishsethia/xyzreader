@@ -9,12 +9,12 @@ import android.content.Loader;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.Toolbar;
 import android.text.format.DateUtils;
-import android.util.TypedValue;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
@@ -31,7 +31,7 @@ import com.example.xyzreader.data.UpdaterService;
  * touched, lead to a {@link ArticleDetailActivity} representing item details. On tablets, the
  * activity presents a grid of items as cards.
  */
-public class ArticleListActivity extends ActionBarActivity implements
+public class ArticleListActivity extends AppCompatActivity implements
         LoaderManager.LoaderCallbacks<Cursor> {
 
     private Toolbar mToolbar;
@@ -43,15 +43,26 @@ public class ArticleListActivity extends ActionBarActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
 
+        // TODO SAFE DELETE
+        /* Redunadant Code
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
-
-
         final View toolbarContainerView = findViewById(R.id.toolbar_container);
-
+        */
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         getLoaderManager().initLoader(0, null, this);
+
+        // Set up the toolbar as the activity
+        // find the toolbar inside
+        Toolbar myToolbar = (Toolbar) findViewById(R.id.myToolbar);
+        // sets the toolbar as the actionbar for this window (activity)
+        setSupportActionBar(myToolbar);
+
+
+        // Remove the text title and put on the icon as the title
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+        myToolbar.setLogo(R.drawable.logo);
 
         if (savedInstanceState == null) {
             refresh();
@@ -173,5 +184,27 @@ public class ArticleListActivity extends ActionBarActivity implements
             titleView = (TextView) view.findViewById(R.id.article_title);
             subtitleView = (TextView) view.findViewById(R.id.article_subtitle);
         }
+    }
+
+
+    // menu items are inflated just as within the actionbar
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu){
+        super.onCreateOptionsMenu(menu);
+        getMenuInflater().inflate(R.menu.main,menu);
+        getMenuInflater().inflate(R.menu.night_mode_menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item){
+        if(item.getItemId() == R.id.nightMode){
+            if(item.isChecked()){
+                item.setChecked(true);
+
+            }
+        }
+
+        return true;
     }
 }
