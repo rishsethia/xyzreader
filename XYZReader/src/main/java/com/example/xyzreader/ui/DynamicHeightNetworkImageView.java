@@ -25,10 +25,19 @@ public class DynamicHeightNetworkImageView extends NetworkImageView {
         requestLayout();
     }
 
+    /*
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec);
         int measuredWidth = getMeasuredWidth();
        // setMeasuredDimension(measuredWidth, (int) (measuredWidth / mAspectRatio));
+    }
+    */
+
+
+
+    @Override
+    protected void onLayout(boolean changed, int left, int top, int right, int bottom) {
+        super.onLayout(changed, left, top, right, bottom);
     }
 }
