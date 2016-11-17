@@ -13,7 +13,7 @@
     <!-- The size of the include here affects the overall size of the toolbar -->
     <!-- TODO Change the height and the style as suitable -->
     <!-- Elevation must be added -->
-    <!-- TODO Enhance animation if needed -->
+    <!-- TODO Enhance animation by adding imageview instead of icon if needed -->
     <android.support.design.widget.AppBarLayout
         android:layout_height="@dimen/detail_backdrop_height"
         android:layout_width="match_parent"
