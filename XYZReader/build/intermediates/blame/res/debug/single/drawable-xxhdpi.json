@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/Users/Rishabh/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
-        "source": "/Users/Rishabh/Desktop/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
-    },
-    {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
-    },
-    {
-        "merged": "/Users/Rishabh/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/night_symbol_matching.png",
-        "source": "/Users/Rishabh/Desktop/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/night_symbol_matching.png"
     },
     {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
@@ -22,13 +14,5 @@
     {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/night_symbol_matching.png",
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/night_symbol_matching.png"
-    },
-    {
-        "merged": "/Users/Rishabh/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
-        "source": "/Users/Rishabh/Desktop/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
-    },
-    {
-        "merged": "/Users/Rishabh/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
-        "source": "/Users/Rishabh/Desktop/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
     }
 ]

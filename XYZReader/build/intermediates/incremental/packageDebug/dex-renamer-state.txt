@@ -1,4 +1,0 @@
-#Thu Nov 17 12:06:27 IST 2016
-base.0=/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

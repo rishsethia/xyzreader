@@ -4,10 +4,6 @@
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "/Users/Rishabh/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
-        "source": "/Users/Rishabh/Desktop/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
-    },
-    {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
     },

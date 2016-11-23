@@ -1,5 +1,6 @@
 package com.example.xyzreader.ui;
 
+import android.app.Activity;
 import android.app.LoaderManager;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -10,6 +11,7 @@ import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.graphics.Palette;
@@ -44,12 +46,11 @@ public class ArticleListActivity extends AppCompatActivity implements
     private Toolbar mToolbar;
     private SwipeRefreshLayout mSwipeRefreshLayout;
     private RecyclerView mRecyclerView;
-
+    Activity mActivity = this;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
-
         // TODO SAFE DELETE
         /* Redunadant Code
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -150,15 +151,16 @@ public class ArticleListActivity extends AppCompatActivity implements
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
+                    final Intent intent = new Intent(Intent.ACTION_VIEW,
+                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition())));
+                    final ActivityOptionsCompat options = ActivityOptionsCompat.
+                            makeSceneTransitionAnimation(mActivity, (View) vh.thumbnailView, "image");
+                    startActivity(intent, options.toBundle());
 
-                    Log.e("ID",String.valueOf(getItemId(vh.getAdapterPosition())));
-                    startActivity(new Intent(Intent.ACTION_VIEW,
-                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                 }
             });
             return vh;
         }
-
         @Override
         public void onBindViewHolder(final ViewHolder holder, int position) {
             mCursor.moveToPosition(position);
@@ -185,8 +187,8 @@ public class ArticleListActivity extends AppCompatActivity implements
                     // getting the background needed using palletes
                     if (bmap != null  && !bmap.isRecycled()) {
                         Palette palette = Palette.from(bmap).generate();
-                        int defaultColor = 0x000000;
-                        int bgcolor = palette.getMutedColor(defaultColor);
+                        int defaultColor = 0xFF333333;
+                        int bgcolor = palette.getDarkMutedColor(defaultColor);
                         holder.thumbnailView.setBackgroundColor(bgcolor);
                         holder.titleView.setBackgroundColor(bgcolor);
                         holder.subtitleView.setBackgroundColor(bgcolor);

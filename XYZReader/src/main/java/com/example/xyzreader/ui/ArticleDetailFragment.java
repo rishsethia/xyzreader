@@ -7,7 +7,6 @@ import android.content.Intent;
 import android.content.Loader;
 import android.database.Cursor;
 import android.graphics.Bitmap;
-import android.graphics.Color;
 import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
@@ -41,7 +40,8 @@ public class ArticleDetailFragment extends Fragment implements
 
     public static final String ARG_ITEM_ID = "item_id";
     private static final float PARALLAX_FACTOR = 1.25f;
-
+    boolean isDataLoaded = false;
+    boolean visibility = false;
     Toolbar myToolbar ;
     Activity mActivity;
     private Cursor mCursor;
@@ -66,6 +66,8 @@ public class ArticleDetailFragment extends Fragment implements
     public ArticleDetailFragment() {
     }
 
+
+
     public static ArticleDetailFragment newInstance(long itemId) {
         Bundle arguments = new Bundle();
         Log.e("ID from newinstance",String.valueOf(itemId));
@@ -74,6 +76,7 @@ public class ArticleDetailFragment extends Fragment implements
         fragment.setArguments(arguments);
         return fragment;
     }
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -113,8 +116,8 @@ public class ArticleDetailFragment extends Fragment implements
         mActivity = getActivity();
         myToolbar = (Toolbar) mActivity.findViewById(R.id.detailToolBar);
         myCollapsingLayout = (CollapsingToolbarLayout) mActivity.findViewById(R.id.myCollapsingLayout);
-
         mRootView = inflater.inflate(R.layout.fragment_article_detail, container, false);
+
         mDrawInsetsFrameLayout = (DrawInsetsFrameLayout)
                 mRootView.findViewById(R.id.draw_insets_frame_layout);
         mDrawInsetsFrameLayout.setOnInsetsCallback(new DrawInsetsFrameLayout.OnInsetsCallback() {
@@ -129,7 +132,6 @@ public class ArticleDetailFragment extends Fragment implements
             @Override
             public void onScrollChanged() {
                 mScrollY = mScrollView.getScrollY();
-                updateStatusBar();
             }
         });
         // Setting the imageview to be the new image
@@ -149,26 +151,23 @@ public class ArticleDetailFragment extends Fragment implements
             }
         });
 
-        bindViews();
-        updateStatusBar();
         return mRootView;
     }
 
-    // TODO SEE WHAT IT DOES
-    private void updateStatusBar() {
-        int color = 0;
-        if (mPhotoView != null && mTopInset != 0 && mScrollY > 0) {
-            float f = progress(mScrollY,
-                    mStatusBarFullOpacityBottom - mTopInset * 3,
-                    mStatusBarFullOpacityBottom - mTopInset);
-            color = Color.argb((int) (255 * f),
-                    (int) (Color.red(mMutedColor) * 0.9),
-                    (int) (Color.green(mMutedColor) * 0.9),
-                    (int) (Color.blue(mMutedColor) * 0.9));
+    @Override
+    public void setUserVisibleHint(boolean isVisibleToUser) {
+        super.setUserVisibleHint(isVisibleToUser);
+
+        if(isVisibleToUser && isDataLoaded){
+            Log.e("Loaded from", "uservisible");
+            bindViews();
+        }else{
+            visibility = true;
         }
-        mStatusBarColorDrawable.setColor(color);
-        mDrawInsetsFrameLayout.setInsetBackground(mStatusBarColorDrawable);
     }
+
+
+
 
     static float progress(float v, float min, float max) {
         return constrain((v - min) / (max - min), 0, 1);
@@ -183,6 +182,7 @@ public class ArticleDetailFragment extends Fragment implements
             return val;
         }
     }
+
 
     // See what it does
     private void bindViews() {
@@ -222,7 +222,6 @@ public class ArticleDetailFragment extends Fragment implements
                                 mPhotoView.setImageBitmap(imageContainer.getBitmap());
                                 myCollapsingLayout.setBackgroundColor(mMutedColor);
                                 myCollapsingLayout.setContentScrimColor(mMutedColor);
-                                updateStatusBar();
                             }
                         }
 
@@ -261,13 +260,24 @@ public class ArticleDetailFragment extends Fragment implements
             mCursor = null;
         }
 
-        bindViews();
+
+            if(visibility) {
+                Log.e("Loaded from", "onfinish");
+                bindViews();
+            }else{
+                isDataLoaded = true;
+            }
+
     }
 
     @Override
     public void onLoaderReset(Loader<Cursor> cursorLoader) {
         mCursor = null;
-        bindViews();
+        if(visibility) {
+            bindViews();
+        }else{
+            isDataLoaded = true;
+        }
     }
 
 
