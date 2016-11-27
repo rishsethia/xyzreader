@@ -20,12 +20,12 @@
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",

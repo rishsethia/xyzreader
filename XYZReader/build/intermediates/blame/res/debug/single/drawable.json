@@ -64,12 +64,12 @@
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_clear_material.xml"
-    },
-    {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_clear_material.xml"
     },
     {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
@@ -108,12 +108,12 @@
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/add_fab_background.xml",
         "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/src/main/res/drawable/add_fab_background.xml"
+    },
+    {
+        "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_search_api_material.xml"
     },
     {
         "merged": "/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",

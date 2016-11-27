@@ -11,131 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f8196e-6449-4d02-833a-e3b32886d784" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DynamicHeightNetworkImageView.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w800dp-v13/values-w800dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_XYZReader_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_XYZReader_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/list_item_article.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/list_item_article.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/themes.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/themes.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/XYZReader.iml" afterPath="$PROJECT_DIR$/XYZReader/XYZReader.iml" />
     </list>
     <ignored path="xyzreader.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -201,12 +79,9 @@
       <file leaf-file-name="ArticleListActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="2265">
               <caret line="190" column="78" selection-start-line="190" selection-start-column="78" selection-end-line="190" selection-end-column="78" />
-              <folding>
-                <element signature="e#5346#5901#0" expanded="true" />
-                <element signature="e#5900#5901#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -224,7 +99,7 @@
       <file leaf-file-name="DynamicHeightNetworkImageView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DynamicHeightNetworkImageView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="60">
               <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -235,14 +110,14 @@
       </file>
       <file leaf-file-name="activity_article_detail.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer2">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="669">
+              <caret line="45" column="68" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -259,7 +134,7 @@
       <file leaf-file-name="ItemsContract.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/ItemsContract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
+            <state relative-caret-position="360">
               <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding />
             </state>
@@ -268,14 +143,14 @@
       </file>
       <file leaf-file-name="list_item_article.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -1886,6 +1761,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2018,10 +1897,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2340,7 +2215,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="896" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2358,12 +2233,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2396,14 +2271,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -2448,14 +2323,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -2580,325 +2455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138465">
           <caret line="9484" column="0" selection-start-line="9484" selection-start-column="0" selection-end-line="9484" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#504308#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#13140#13772#0" expanded="false" />
-            <element signature="e#13771#13772#0" expanded="false" />
-            <element signature="e#18117#18347#0" expanded="false" />
-            <element signature="e#18346#18347#0" expanded="false" />
-            <element signature="e#18411#18564#0" expanded="false" />
-            <element signature="e#18563#18564#0" expanded="false" />
-            <element signature="e#20239#20240#0" expanded="false" />
-            <element signature="e#20274#20275#0" expanded="false" />
-            <element signature="e#20348#20349#0" expanded="false" />
-            <element signature="e#20387#20388#0" expanded="false" />
-            <element signature="e#27777#27778#0" expanded="false" />
-            <element signature="e#27849#27850#0" expanded="false" />
-            <element signature="e#28118#28119#0" expanded="false" />
-            <element signature="e#28193#28194#0" expanded="false" />
-            <element signature="e#28584#28585#0" expanded="false" />
-            <element signature="e#28659#28660#0" expanded="false" />
-            <element signature="e#29054#29055#0" expanded="false" />
-            <element signature="e#29120#29121#0" expanded="false" />
-            <element signature="e#32957#32958#0" expanded="false" />
-            <element signature="e#33007#33008#0" expanded="false" />
-            <element signature="e#33930#33931#0" expanded="false" />
-            <element signature="e#33980#33981#0" expanded="false" />
-            <element signature="e#35265#35266#0" expanded="false" />
-            <element signature="e#35309#35310#0" expanded="false" />
-            <element signature="e#35497#35498#0" expanded="false" />
-            <element signature="e#35533#35534#0" expanded="false" />
-            <element signature="e#40964#40965#0" expanded="false" />
-            <element signature="e#40995#40996#0" expanded="false" />
-            <element signature="e#41526#41527#0" expanded="false" />
-            <element signature="e#41570#41571#0" expanded="false" />
-            <element signature="e#48720#48721#0" expanded="false" />
-            <element signature="e#48750#48751#0" expanded="false" />
-            <element signature="e#49210#49211#0" expanded="false" />
-            <element signature="e#49264#49265#0" expanded="false" />
-            <element signature="e#49802#49803#0" expanded="false" />
-            <element signature="e#49853#49854#0" expanded="false" />
-            <element signature="e#50849#50850#0" expanded="false" />
-            <element signature="e#50897#50898#0" expanded="false" />
-            <element signature="e#51133#51134#0" expanded="false" />
-            <element signature="e#51168#51169#0" expanded="false" />
-            <element signature="e#53555#53556#0" expanded="false" />
-            <element signature="e#53599#53600#0" expanded="false" />
-            <element signature="e#55742#55743#0" expanded="false" />
-            <element signature="e#55784#55785#0" expanded="false" />
-            <element signature="e#74319#74320#0" expanded="false" />
-            <element signature="e#74355#74356#0" expanded="false" />
-            <element signature="e#77915#77916#0" expanded="false" />
-            <element signature="e#77955#77956#0" expanded="false" />
-            <element signature="e#78157#78158#0" expanded="false" />
-            <element signature="e#78197#78198#0" expanded="false" />
-            <element signature="e#83041#83042#0" expanded="false" />
-            <element signature="e#83111#83112#0" expanded="false" />
-            <element signature="e#94349#94350#0" expanded="false" />
-            <element signature="e#94383#94384#0" expanded="false" />
-            <element signature="e#117245#117246#0" expanded="false" />
-            <element signature="e#117286#117287#0" expanded="false" />
-            <element signature="e#119494#119495#0" expanded="false" />
-            <element signature="e#119543#119544#0" expanded="false" />
-            <element signature="e#121254#121255#0" expanded="false" />
-            <element signature="e#121290#121291#0" expanded="false" />
-            <element signature="e#151239#151240#0" expanded="false" />
-            <element signature="e#151312#151313#0" expanded="false" />
-            <element signature="e#159707#159708#0" expanded="false" />
-            <element signature="e#159755#159756#0" expanded="false" />
-            <element signature="e#162985#162986#0" expanded="false" />
-            <element signature="e#163038#163039#0" expanded="false" />
-            <element signature="e#186084#186085#0" expanded="false" />
-            <element signature="e#186136#186137#0" expanded="false" />
-            <element signature="e#192047#192070#0" expanded="false" />
-            <element signature="e#192263#192264#0" expanded="false" />
-            <element signature="e#192301#192302#0" expanded="false" />
-            <element signature="e#193999#194000#0" expanded="false" />
-            <element signature="e#194037#194038#0" expanded="false" />
-            <element signature="e#194062#194063#0" expanded="false" />
-            <element signature="e#194100#194101#0" expanded="false" />
-            <element signature="e#196577#196589#0" expanded="false" />
-            <element signature="e#197983#197984#0" expanded="false" />
-            <element signature="e#198040#198041#0" expanded="false" />
-            <element signature="e#204768#204769#0" expanded="false" />
-            <element signature="e#204834#204835#0" expanded="false" />
-            <element signature="e#223009#223010#0" expanded="false" />
-            <element signature="e#223061#223062#0" expanded="false" />
-            <element signature="e#223103#223104#0" expanded="false" />
-            <element signature="e#223168#223169#0" expanded="false" />
-            <element signature="e#247689#247690#0" expanded="false" />
-            <element signature="e#247721#247722#0" expanded="false" />
-            <element signature="e#248826#248827#0" expanded="false" />
-            <element signature="e#248862#248863#0" expanded="false" />
-            <element signature="e#249502#249503#0" expanded="false" />
-            <element signature="e#249546#249547#0" expanded="false" />
-            <element signature="e#253175#253176#0" expanded="false" />
-            <element signature="e#253211#253212#0" expanded="false" />
-            <element signature="e#254517#254518#0" expanded="false" />
-            <element signature="e#254574#254575#0" expanded="false" />
-            <element signature="e#258558#258559#0" expanded="false" />
-            <element signature="e#258609#258610#0" expanded="false" />
-            <element signature="e#282971#282972#0" expanded="false" />
-            <element signature="e#283017#283018#0" expanded="false" />
-            <element signature="e#283394#283395#0" expanded="false" />
-            <element signature="e#283437#283438#0" expanded="false" />
-            <element signature="e#284848#284849#0" expanded="false" />
-            <element signature="e#284884#284885#0" expanded="false" />
-            <element signature="e#285550#285551#0" expanded="false" />
-            <element signature="e#285600#285601#0" expanded="false" />
-            <element signature="e#295816#295817#0" expanded="false" />
-            <element signature="e#295857#295858#0" expanded="false" />
-            <element signature="e#298648#298649#0" expanded="false" />
-            <element signature="e#298680#298681#0" expanded="false" />
-            <element signature="e#299550#299551#0" expanded="false" />
-            <element signature="e#299582#299583#0" expanded="false" />
-            <element signature="e#299876#299877#0" expanded="false" />
-            <element signature="e#299912#299913#0" expanded="false" />
-            <element signature="e#300200#300201#0" expanded="false" />
-            <element signature="e#300236#300237#0" expanded="false" />
-            <element signature="e#302690#302691#0" expanded="false" />
-            <element signature="e#302765#302766#0" expanded="false" />
-            <element signature="e#304077#304078#0" expanded="false" />
-            <element signature="e#304131#304132#0" expanded="false" />
-            <element signature="e#305037#305038#0" expanded="false" />
-            <element signature="e#305091#305092#0" expanded="false" />
-            <element signature="e#305431#305432#0" expanded="false" />
-            <element signature="e#305473#305474#0" expanded="false" />
-            <element signature="e#305870#305871#0" expanded="false" />
-            <element signature="e#305925#305926#0" expanded="false" />
-            <element signature="e#309202#309203#0" expanded="false" />
-            <element signature="e#309256#309257#0" expanded="false" />
-            <element signature="e#310649#310650#0" expanded="false" />
-            <element signature="e#310682#310683#0" expanded="false" />
-            <element signature="e#315907#315908#0" expanded="false" />
-            <element signature="e#315975#315976#0" expanded="false" />
-            <element signature="e#318145#318146#0" expanded="false" />
-            <element signature="e#318190#318191#0" expanded="false" />
-            <element signature="e#322358#322359#0" expanded="false" />
-            <element signature="e#322399#322400#0" expanded="false" />
-            <element signature="e#323033#323034#0" expanded="false" />
-            <element signature="e#323075#323076#0" expanded="false" />
-            <element signature="e#323233#323234#0" expanded="false" />
-            <element signature="e#323270#323271#0" expanded="false" />
-            <element signature="e#323431#323432#0" expanded="false" />
-            <element signature="e#323469#323470#0" expanded="false" />
-            <element signature="e#325331#325332#0" expanded="false" />
-            <element signature="e#325412#325413#0" expanded="false" />
-            <element signature="e#325680#325681#0" expanded="false" />
-            <element signature="e#325760#325761#0" expanded="false" />
-            <element signature="e#336365#336366#0" expanded="false" />
-            <element signature="e#336420#336421#0" expanded="false" />
-            <element signature="e#360260#360261#0" expanded="false" />
-            <element signature="e#360295#360296#0" expanded="false" />
-            <element signature="e#370382#370383#0" expanded="false" />
-            <element signature="e#370414#370415#0" expanded="false" />
-            <element signature="e#370969#370970#0" expanded="false" />
-            <element signature="e#371001#371002#0" expanded="false" />
-            <element signature="e#371571#371572#0" expanded="false" />
-            <element signature="e#371603#371604#0" expanded="false" />
-            <element signature="e#372114#372115#0" expanded="false" />
-            <element signature="e#372146#372147#0" expanded="false" />
-            <element signature="e#372693#372694#0" expanded="false" />
-            <element signature="e#372725#372726#0" expanded="false" />
-            <element signature="e#373287#373288#0" expanded="false" />
-            <element signature="e#373319#373320#0" expanded="false" />
-            <element signature="e#374773#374774#0" expanded="false" />
-            <element signature="e#374845#374846#0" expanded="false" />
-            <element signature="e#374985#374986#0" expanded="false" />
-            <element signature="e#375058#375059#0" expanded="false" />
-            <element signature="e#375780#375781#0" expanded="false" />
-            <element signature="e#375815#375816#0" expanded="false" />
-            <element signature="e#384501#384502#0" expanded="false" />
-            <element signature="e#384558#384559#0" expanded="false" />
-            <element signature="e#387898#387899#0" expanded="false" />
-            <element signature="e#387934#387935#0" expanded="false" />
-            <element signature="e#393539#393540#0" expanded="false" />
-            <element signature="e#393575#393576#0" expanded="false" />
-            <element signature="e#395875#395876#0" expanded="false" />
-            <element signature="e#395916#395917#0" expanded="false" />
-            <element signature="e#401691#401692#0" expanded="false" />
-            <element signature="e#401727#401728#0" expanded="false" />
-            <element signature="e#412609#412610#0" expanded="false" />
-            <element signature="e#412667#412668#0" expanded="false" />
-            <element signature="e#416930#416931#0" expanded="false" />
-            <element signature="e#416973#416974#0" expanded="false" />
-            <element signature="e#417223#417224#0" expanded="false" />
-            <element signature="e#417261#417262#0" expanded="false" />
-            <element signature="e#417384#417385#0" expanded="false" />
-            <element signature="e#417428#417429#0" expanded="false" />
-            <element signature="e#417457#417458#0" expanded="false" />
-            <element signature="e#417511#417512#0" expanded="false" />
-            <element signature="e#417537#417538#0" expanded="false" />
-            <element signature="e#417594#417595#0" expanded="false" />
-            <element signature="e#417636#417637#0" expanded="false" />
-            <element signature="e#417707#417708#0" expanded="false" />
-            <element signature="e#417752#417753#0" expanded="false" />
-            <element signature="e#417819#417820#0" expanded="false" />
-            <element signature="e#417856#417857#0" expanded="false" />
-            <element signature="e#417916#417917#0" expanded="false" />
-            <element signature="e#417947#417948#0" expanded="false" />
-            <element signature="e#418001#418002#0" expanded="false" />
-            <element signature="e#418202#418203#0" expanded="false" />
-            <element signature="e#418261#418262#0" expanded="false" />
-            <element signature="e#418294#418295#0" expanded="false" />
-            <element signature="e#418352#418353#0" expanded="false" />
-            <element signature="e#418381#418382#0" expanded="false" />
-            <element signature="e#418438#418439#0" expanded="false" />
-            <element signature="e#418469#418470#0" expanded="false" />
-            <element signature="e#418528#418529#0" expanded="false" />
-            <element signature="e#418575#418576#0" expanded="false" />
-            <element signature="e#418627#418628#0" expanded="false" />
-            <element signature="e#418662#418663#0" expanded="false" />
-            <element signature="e#418726#418727#0" expanded="false" />
-            <element signature="e#418909#418910#0" expanded="false" />
-            <element signature="e#418975#418976#0" expanded="false" />
-            <element signature="e#419011#419012#0" expanded="false" />
-            <element signature="e#419050#419051#0" expanded="false" />
-            <element signature="e#424942#424943#0" expanded="false" />
-            <element signature="e#425008#425009#0" expanded="false" />
-            <element signature="e#425397#425398#0" expanded="false" />
-            <element signature="e#425455#425456#0" expanded="false" />
-            <element signature="e#426371#426372#0" expanded="false" />
-            <element signature="e#426431#426432#0" expanded="false" />
-            <element signature="e#428409#428410#0" expanded="false" />
-            <element signature="e#428448#428449#0" expanded="false" />
-            <element signature="e#428502#428503#0" expanded="false" />
-            <element signature="e#428546#428547#0" expanded="false" />
-            <element signature="e#428604#428605#0" expanded="false" />
-            <element signature="e#428641#428642#0" expanded="false" />
-            <element signature="e#428703#428704#0" expanded="false" />
-            <element signature="e#428740#428741#0" expanded="false" />
-            <element signature="e#428792#428793#0" expanded="false" />
-            <element signature="e#428854#428855#0" expanded="false" />
-            <element signature="e#429147#429148#0" expanded="false" />
-            <element signature="e#429203#429204#0" expanded="false" />
-            <element signature="e#429494#429495#0" expanded="false" />
-            <element signature="e#429548#429549#0" expanded="false" />
-            <element signature="e#429988#429989#0" expanded="false" />
-            <element signature="e#430042#430043#0" expanded="false" />
-            <element signature="e#430462#430463#0" expanded="false" />
-            <element signature="e#430516#430517#0" expanded="false" />
-            <element signature="e#430697#430698#0" expanded="false" />
-            <element signature="e#430753#430754#0" expanded="false" />
-            <element signature="e#431055#431056#0" expanded="false" />
-            <element signature="e#431117#431118#0" expanded="false" />
-            <element signature="e#431554#431555#0" expanded="false" />
-            <element signature="e#431617#431618#0" expanded="false" />
-            <element signature="e#433288#433289#0" expanded="false" />
-            <element signature="e#433347#433348#0" expanded="false" />
-            <element signature="e#434735#434736#0" expanded="false" />
-            <element signature="e#434791#434792#0" expanded="false" />
-            <element signature="e#435041#435042#0" expanded="false" />
-            <element signature="e#435086#435087#0" expanded="false" />
-            <element signature="e#436360#436361#0" expanded="false" />
-            <element signature="e#436409#436410#0" expanded="false" />
-            <element signature="e#436534#436535#0" expanded="false" />
-            <element signature="e#436573#436574#0" expanded="false" />
-            <element signature="e#436837#436838#0" expanded="false" />
-            <element signature="e#436883#436884#0" expanded="false" />
-            <element signature="e#438670#438671#0" expanded="false" />
-            <element signature="e#438738#438739#0" expanded="false" />
-            <element signature="e#442587#442588#0" expanded="false" />
-            <element signature="e#442657#442658#0" expanded="false" />
-            <element signature="e#442941#442942#0" expanded="false" />
-            <element signature="e#443001#443002#0" expanded="false" />
-            <element signature="e#444570#444571#0" expanded="false" />
-            <element signature="e#444634#444635#0" expanded="false" />
-            <element signature="e#444673#444674#0" expanded="false" />
-            <element signature="e#444732#444733#0" expanded="false" />
-            <element signature="e#446731#446732#0" expanded="false" />
-            <element signature="e#446773#446774#0" expanded="false" />
-            <element signature="e#446920#446921#0" expanded="false" />
-            <element signature="e#446962#446963#0" expanded="false" />
-            <element signature="e#447115#447116#0" expanded="false" />
-            <element signature="e#447163#447164#0" expanded="false" />
-            <element signature="e#447353#447354#0" expanded="false" />
-            <element signature="e#447405#447406#0" expanded="false" />
-            <element signature="e#448690#448691#0" expanded="false" />
-            <element signature="e#448742#448743#0" expanded="false" />
-            <element signature="e#452059#452060#0" expanded="false" />
-            <element signature="e#452100#452101#0" expanded="false" />
-            <element signature="e#452337#452338#0" expanded="false" />
-            <element signature="e#452394#452395#0" expanded="false" />
-            <element signature="e#452842#452843#0" expanded="false" />
-            <element signature="e#452917#452918#0" expanded="false" />
-            <element signature="e#457037#457038#0" expanded="false" />
-            <element signature="e#457080#457081#0" expanded="false" />
-            <element signature="e#457190#457191#0" expanded="false" />
-            <element signature="e#457233#457234#0" expanded="false" />
-            <element signature="e#457571#457572#0" expanded="false" />
-            <element signature="e#457626#457627#0" expanded="false" />
-            <element signature="e#457952#457953#0" expanded="false" />
-            <element signature="e#458003#458004#0" expanded="false" />
-            <element signature="e#459976#459977#0" expanded="false" />
-            <element signature="e#460022#460023#0" expanded="false" />
-            <element signature="e#460579#460580#0" expanded="false" />
-            <element signature="e#460627#460628#0" expanded="false" />
-            <element signature="e#468155#468185#0" expanded="false" />
-            <element signature="e#468557#468558#0" expanded="false" />
-            <element signature="e#468601#468602#0" expanded="false" />
-            <element signature="e#468812#468813#0" expanded="false" />
-            <element signature="e#468864#468865#0" expanded="false" />
-            <element signature="e#469059#469060#0" expanded="false" />
-            <element signature="e#469102#469103#0" expanded="false" />
-            <element signature="e#469308#469309#0" expanded="false" />
-            <element signature="e#469358#469359#0" expanded="false" />
-            <element signature="e#469562#469563#0" expanded="false" />
-            <element signature="e#469608#469609#0" expanded="false" />
-            <element signature="e#469829#469830#0" expanded="false" />
-            <element signature="e#469885#469886#0" expanded="false" />
-            <element signature="e#470089#470090#0" expanded="false" />
-            <element signature="e#470135#470136#0" expanded="false" />
-            <element signature="e#470356#470357#0" expanded="false" />
-            <element signature="e#470412#470413#0" expanded="false" />
-            <element signature="e#470826#470827#0" expanded="false" />
-            <element signature="e#470870#470871#0" expanded="false" />
-            <element signature="e#495959#495960#0" expanded="false" />
-            <element signature="e#495994#495995#0" expanded="false" />
-            <element signature="e#498811#498812#0" expanded="false" />
-            <element signature="e#498862#498863#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2906,7 +2462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2926,7 +2481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2934,7 +2488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2950,23 +2503,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="143" column="43" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5430#5820#0" expanded="true" />
-            <element signature="e#5819#5820#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
@@ -2988,14 +2536,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
           <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml">
@@ -3023,14 +2571,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/ArticleLoader.java">
@@ -3043,7 +2591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/ItemsContract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="360">
           <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding />
         </state>
@@ -3067,7 +2615,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DynamicHeightNetworkImageView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="60">
           <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3077,24 +2625,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="2265">
           <caret line="190" column="78" selection-start-line="190" selection-start-column="78" selection-end-line="190" selection-end-column="78" />
-          <folding>
-            <element signature="e#5346#5901#0" expanded="true" />
-            <element signature="e#5900#5901#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer2">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="45" column="68" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
