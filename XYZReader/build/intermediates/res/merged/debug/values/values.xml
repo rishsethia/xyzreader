@@ -1574,7 +1574,7 @@
         <item name="colorPrimary">#FF5722</item>
         <item name="colorPrimaryDark">#E64A19</item>
         <item name="android:windowContentTransitions">true</item>
-        <item name="android:colorAccent">#448AFF</item>
+        <item name="colorAccent">#448AFF</item>
     </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
