@@ -24,7 +24,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.android.volley.VolleyError;
@@ -176,6 +175,7 @@ public class ArticleListActivity extends AppCompatActivity implements
             //Declaring viewholder as final
             // Now for the imageview
              // Getting the imageloader
+            holder.thumbnailView.setAspectRatio(Float.parseFloat(mCursor.getString(ArticleLoader.Query.ASPECT_RATIO)));
             ImageLoader mImageLoader = ImageLoaderHelper.getInstance(getApplicationContext()).getImageLoader();
             mImageLoader.get(mCursor.getString(ArticleLoader.Query.THUMB_URL), new ImageLoader.ImageListener() {
                 @Override
@@ -189,7 +189,6 @@ public class ArticleListActivity extends AppCompatActivity implements
                         Palette palette = Palette.from(bmap).generate();
                         int defaultColor = 0xFF333333;
                         int bgcolor = palette.getDarkMutedColor(defaultColor);
-                        holder.thumbnailView.setBackgroundColor(bgcolor);
                         holder.titleView.setBackgroundColor(bgcolor);
                         holder.subtitleView.setBackgroundColor(bgcolor);
                         Palette.Swatch mySwatch = palette.getDarkMutedSwatch();
@@ -221,13 +220,13 @@ public class ArticleListActivity extends AppCompatActivity implements
     }
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
-        public ImageView thumbnailView;
+        public DynamicHeightNetworkImageView thumbnailView;
         public TextView titleView;
         public TextView subtitleView;
 
         public ViewHolder(View view) {
             super(view);
-            thumbnailView = (ImageView) view.findViewById(R.id.thumbnail);
+            thumbnailView = (DynamicHeightNetworkImageView) view.findViewById(R.id.thumbnail);
             titleView = (TextView) view.findViewById(R.id.article_title);
             subtitleView = (TextView) view.findViewById(R.id.article_subtitle);
         }

@@ -21,33 +21,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_08b44ef9782c255bcb2a61d24380ce259fa42b89.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_bcb48a656300ff9d4765f492300414bf08dcec97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_2a8601a80730cf6c868e5a99d8509a1ad35e96fc.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -72,15 +45,6 @@
         revision="24.0.1"
         sha1="734e80dffea7bd76c18ae256822a124c30d85850">
         <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_05de77bb1932f22b49cd1124188296c524b50704.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_86816d10ea329ae3d4206082bc47acfe5e73ac79.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,6 +75,51 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.0.0_861d5a4737c87b37f59695993f2cf9164942a54f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_08b44ef9782c255bcb2a61d24380ce259fa42b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_bcb48a656300ff9d4765f492300414bf08dcec97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_2a8601a80730cf6c868e5a99d8509a1ad35e96fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_86816d10ea329ae3d4206082bc47acfe5e73ac79.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -126,15 +135,6 @@
         revision="24.0.1"
         sha1="894922f67adeaaef51f077a29e315da21a3382d3">
         <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_73cd80b3b1d94125e593649ed75fc166d040a870.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
-        <dex dex="/Users/Rishabh/Desktop/Udacity Projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.0.0_861d5a4737c87b37f59695993f2cf9164942a54f.jar" />
     </item>
 
 </items>
